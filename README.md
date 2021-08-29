@@ -41,7 +41,7 @@ If accurate such predictions are incredibly valuable, in helping businesses reta
 
 * This project will be using customer data from the fictional online music streaming platform **_Sparkify_**
 * The dataset contains records of all the interactions each **_Sparkify_** user has with the platform together with an associated timestamp, be it playing songs, giving thumbs ups, adding playlists or just logging in and out. It also contains the all important record of the all important cancellation event; the so called _churn_.
-* For the project workbook a subset of the main data set was provided, which has bee downloaded and saved as 'mini_sparkify_event_data.json'.
+* For the project workbook a subset of the main data set was provided, which has been downloaded and saved as 'mini_sparkify_event_data.json'.
 * The full dataset can be found [here](s3n://udacity-dsnd/sparkify/sparkify_event_data.json)
 
 ## File Descriptions <a name="files"></a>
@@ -72,7 +72,8 @@ This is the main note book. It contains
   - load the data
   - clean the data
   - aggregate the data
-  - tune, run and assess machine learning models.
+  - run and assess the recommended machine learning model.
+ * This notebook would be used as the basis for the deployment code, when running with the full dataset on an EMR Cluster.
 
 ## Results<a name="results"></a>
 
