@@ -46,11 +46,13 @@ If accurate such predictions are incredibly valuable, in helping businesses reta
 
 ## File Descriptions <a name="files"></a>
 
-There are 2 notebooks available here to showcase the data preparation, analysis and machine-learning process for this project. 
+#### 1. `README.md`
 
-#### 1. `sparkify.ipynb` 
+This readme file.
 
-This is the main note book. It contains 
+#### 2. `sparkify.ipynb` 
+
+This is the Jupyter note book that showcases the data preparation, analysis and machine-learning process for this project. It contains 
 * pyspark scripts for 
    - loading the data set
    - exploring the data set
@@ -66,13 +68,9 @@ This is the main note book. It contains
    - tuning machine learning models
 * comprehensive markdown commentary explaining the steps and giving insights to the results.
 
-#### 2. `mini_sparkify_event_data.json`
-
-The mini dataset containing the data for the Jupyter Workbook Analysis
-
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post [here](https://richard-needham.medium.com/.........) available .
+The main findings of the code can be found at the post [here](https://richard-needham.medium.com/predicting-churn-rates-for-sparkify-45bed481f34) available .
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
