@@ -70,7 +70,7 @@ This is the Jupyter note book that showcases the data preparation, analysis and 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post [here](https://richard-needham.medium.com/predicting-churn-rates-for-sparkify-45bed481f34) available .
+The main findings of the code can be found at the post [here](https://richard-needham.medium.com/predicting-churn-rates-for-sparkify-45bed481f34).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
