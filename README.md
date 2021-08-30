@@ -66,14 +66,9 @@ This is the main note book. It contains
    - tuning machine learning models
 * comprehensive markdown commentary explaining the steps and giving insights to the results.
 
-#### 2. `Sparkify-Prediction-Code-Only.ipynb`
+#### 2. `mini_sparkify_event_data.json`
 
-* This an abridged version of the **Sparkify.ipynb** notebook, containing only the code required to 
-  - load the data
-  - clean the data
-  - aggregate the data
-  - run and assess the recommended machine learning model.
- * This notebook would be used as the basis for the deployment code, when running with the full dataset on an EMR Cluster.
+The mini dataset containing the data for the Jupyter Workbook Analysis
 
 ## Results<a name="results"></a>
 
